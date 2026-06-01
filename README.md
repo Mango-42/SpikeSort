@@ -1,6 +1,7 @@
 # SpikeSort
 Senior thesis project to automate spike sorting for crustacean STG
 Migrated from my main lab work and tools repository 5/3
+UPDATE: Use the Marder Lab version of this repository -- I will be porting things there in the next weeks. 
 
 # Documented Use
 Clone the repository and open in MATLAB. 
